@@ -220,10 +220,10 @@ disqus:
 
 
 gitalk:
-  githubID: anno-sc
+  githubID: seqyuan
   repo: anno-sc.github.io
-  ClientID:
-  ClientSecret:
+  ClientID: 54465dc37c5d2ea3ae71
+  ClientSecret: 7fd01ffd2d82a0a4eb0bc9b7191481733d60b448
   adminUser: seqyuan
   distractionFreeMode: true
   language: zh-CN
