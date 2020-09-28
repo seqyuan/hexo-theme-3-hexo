@@ -7,7 +7,7 @@ anno-sc是单细胞大项目兴趣组的博客，我们希望通过博客的形�
 
 ## 文章更新
 
-> https://github.com/anno-sc/blog_source
+>https://github.com/anno-sc/blog_source
 
 文章原始markdown文档存放在github
 
