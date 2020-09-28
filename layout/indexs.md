@@ -5,11 +5,11 @@ anno-sc是单细胞大项目兴趣组的博客，我们希望通过博客的形�
 > 博客的主要内容是单细胞分析的经验总结、学习笔记的整理以及一些软件分析教程
 
 
-## 合作更新方式
+## 文章更新
 
-#### 文章仓库地址
+> https://github.com/anno-sc/blog_source
 
-https://github.com/anno-sc/blog_source
+文章原始markdown文档存放在github
 
 #### 合作更新方式
 
@@ -20,7 +20,7 @@ https://github.com/anno-sc/blog_source
 
 anno-sc组织的member更新博客可通过前两种方式，其他合作者可通过第三种方式
 
-## 要起的文章格式
+## 要求的文章格式
 
 文章书写为`markdown`格式，需要在文章开头加入头文件用于生成博客必要的文章分类信息，头文件格式如下：
 
