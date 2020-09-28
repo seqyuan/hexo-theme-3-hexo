@@ -6,8 +6,6 @@ anno-sc是单细胞大项目兴趣组的博客，我们希望通过博客的形�
 
 ## 合作更新方式
 
-仓库地址`github.com/anno-sc/blog_source`。
-
 1. 直接在仓库`Add file`，文件以`.md`作为后缀
 2. 通过`git`命令行的形式更新仓库文件，新添加的文章以`.md`作为后缀
 >每次 git push之前，请务必先git pull，保证仓库状态最新
