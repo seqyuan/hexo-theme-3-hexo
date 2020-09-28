@@ -6,6 +6,7 @@ anno-sc是单细胞大项目兴趣组的博客，我们希望通过博客的形�
 
 
 ## 合作更新方式
+
 #### 文章仓库地址
 
 https://github.com/anno-sc/blog_source
@@ -20,6 +21,7 @@ https://github.com/anno-sc/blog_source
 anno-sc组织的member更新博客可通过前两种方式，其他合作者可通过第三种方式
 
 ## 要起的文章格式
+
 文章书写为`markdown`格式，需要在文章开头加入头文件用于生成博客必要的文章分类信息，头文件格式如下：
 
 ```
@@ -40,7 +42,10 @@ tags:
 
 ## 关于文章中的图片 
 
-如果某篇文章中有图片，请在**https://github.com/anno-sc/blog_source/figure/**中建立独立的文件夹来存放这篇文章的图片，markdown文档中引用的图片路径请以`https://gitee.com/anno-sc/blog_source/raw/master/figure`开头，例如[【DC和NK细胞的lineage及marker基因】](https://anno-sc.com/2020/09/25/NK_DC_lineage/)这篇文章的图片存放在了这个文件夹内`https://github.com/anno-sc/blog_source/tree/master/figure/DC_marker`，那么这篇文章markdown中的图片链接地址写为：
+* 如果某篇文章中有图片，请在`https://github.com/anno-sc/blog_source/figure/`中建立独立的文件夹来存放图片
+* markdown文档中引用的图片路径请以`https://gitee.com/anno-sc/blog_source/raw/master/figure`开头
+
+例如[【DC和NK细胞的lineage及marker基因】](https://anno-sc.com/2020/09/25/NK_DC_lineage/)这篇文章的图片存放在`https://github.com/anno-sc/blog_source/tree/master/figure/DC_marker`，这篇文章markdown中的某个图片链接地址写为：
 
 ```
 ![](https://gitee.com/anno-sc/blog_source/raw/master/figure/DC_marker/common_lymphoid_progenitors.png)
